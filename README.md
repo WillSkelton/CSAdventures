@@ -1,6 +1,6 @@
 # CS Adventures
 
-**DISCLAIMER:** This is my repository for all the notes throughout my journey through the WSU Computer Science program. Since these are notes and I'm not an expert, **some of this information could be wrong** so definitly double check this information in case it turns out that I'm full of shit. I'm going to put some kind of confidence meter on my notes for how confident I am but as my dad told me "I really admire the way you're willing to stand up in cass and confidentally be wron in front of everyone."
+**DISCLAIMER:** This is my repository for all the notes throughout my journey through the WSU Computer Science program. Since these are notes and I'm not an expert, **some of this information could be wrong** so definitly double check this information in case it turns out that I'm full of shit. I'm going to put some kind of confidence meter on my notes for how confident I am but as my dad told me "I really admire the way you're willing to stand up in cass and confidentally be wrong in front of everyone."
 
 ## Introduction:
 
