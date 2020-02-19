@@ -8,4 +8,4 @@ Now that we got the "Will might not know what he's talking about" disclaimer out
 
 ## Navigation
 
-- [Computer Science Classes](https://github.com/WillSkelton/CSAdventures/tree/master/WSU%20Classes/computer-science)
+- [Computer Science Classes](./WSU%20Classes/computer-science)
