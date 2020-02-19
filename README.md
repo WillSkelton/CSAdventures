@@ -9,3 +9,4 @@ Now that we got the "Will might not know what he's talking about" disclaimer out
 ## Navigation
 
 - [Computer Science Classes](./WSU%20Classes/computer-science)
+- [Physics](./WSU%20Classes/physics)
